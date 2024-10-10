@@ -8,6 +8,11 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
+* [Programming Language](#build-your-own-programming-language)
+* [Operating System](#build-your-own-operating-system)
+* [Git](#build-your-own-git)
+* [Network Stack](#build-your-own-network-stack)
+* [Neural Network](#build-your-own-neural-network)
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
@@ -19,12 +24,7 @@ It's a great way to learn.
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
-* [Git](#build-your-own-git)
-* [Network Stack](#build-your-own-network-stack)
-* [Neural Network](#build-your-own-neural-network)
-* [Operating System](#build-your-own-operating-system)
 * [Physics Engine](#build-your-own-physics-engine)
-* [Programming Language](#build-your-own-programming-language)
 * [Regex Engine](#build-your-own-regex-engine)
 * [Search Engine](#build-your-own-search-engine)
 * [Shell](#build-your-own-shell)
